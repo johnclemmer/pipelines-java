@@ -12,10 +12,10 @@ variables:
   azureSubscription: '45c123b9-6a28-43a2-aaab-356b11b24c92'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'pipelines-java'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'Dev'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
