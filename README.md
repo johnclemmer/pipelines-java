@@ -1,4 +1,7 @@
 
+# Automation
+This code fork is the source for an automated project.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
