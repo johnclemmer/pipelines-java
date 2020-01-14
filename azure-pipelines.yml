@@ -12,7 +12,7 @@ variables:
   azureSubscription: '45c123b9-6a28-43a2-aaab-356b11b24c92'
   
   # Web app name
-  webAppName: 'pipelines-java'
+  webAppName: 'jlc-pipelines-java'
 
   # Environment name
   environmentName: 'Dev'
